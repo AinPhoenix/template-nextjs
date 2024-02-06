@@ -1,5 +1,7 @@
 # Custom Next.js Template
 
+![image](https://github.com/AinPhoenix/template-nextjs/assets/100759300/08da26b7-1fa5-4f4f-93c1-90ad7016dd72)
+
 This Next.js template provides a quick and easy setup for your web projects with a focus on modern technologies. It includes the following features:
 
 - **Tailwind CSS**
